@@ -20,17 +20,38 @@ WorkoutAja adalah landing page modern dan responsif bertema workout/fitness. Hal
 
 ## 📷 Preview
 
-> Tambahkan screenshot berikut agar pengunjung GitHub bisa melihat tampilan halamannya.
-
-```bash
 ![Screenshot 2025-04-06 210110](https://github.com/user-attachments/assets/86271c6a-a1d1-4ac9-abf8-211ec6286000)
 
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
 
+```
 git clone https://github.com/username/workoutaja.git
 cd workoutaja
+```
+2. Buka file index.html langsung di browser:
+
+```
+📂 workoutaja/
+  ├── index.html
+  ├── style.css
+  └── images/
+      ├── logo.svg
+      ├── woman.svg
+      ├── whatsapp-icon.svg
+      └── balls.svg
+```
+
+💅 Highlight CSS
+Flexbox digunakan untuk menyusun navigasi dan layout main
+
+Hover effects dengan animasi transform dan transisi warna
+
+Button dirancang bulat dengan border-radius: 50px
+
+Text animation: .text muncul naik perlahan saat halaman dimuat
+
 
 
 
